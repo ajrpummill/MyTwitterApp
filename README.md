@@ -24,12 +24,15 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 This is the initial opening of the app that bring the user to the login screen.
+
 <img src="https://media.giphy.com/media/dzPZH43Q76yWqn9bbt/giphy.gif" width=250><br>
 
 This is after the login credentials are succesfully enter. This will also show the pull down to refresh feature and infinite scrolling.
+
 <img src="https://media.giphy.com/media/YTDTpyZzC1SSSXAWJN/giphy.gif" width=250><br>
 
 This is the logout function and a check by reopening the app, bringing user back to login screen.
+
 <img src="https://media.giphy.com/media/j5Pr77W7zklAhsibRS/giphy.gif" width=250><br>
 
 
