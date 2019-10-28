@@ -27,11 +27,13 @@ This is the initial opening of the app that bring the user to the login screen.
 
 <img src="https://media.giphy.com/media/dzPZH43Q76yWqn9bbt/giphy.gif" width=250><br>
 
-This is after the login credentials are succesfully enter. This will also show the pull down to refresh feature and infinite scrolling.
+This is after the login credentials are succesfully entered. 
+This also shows the pull down to refresh feature and infinite scrolling.
 
 <img src="https://media.giphy.com/media/YTDTpyZzC1SSSXAWJN/giphy.gif" width=250><br>
 
-This is the logout function and a check by reopening the app, bringing user back to login screen.
+This is the logout functionality and a check by closing and reopening the app.
+A successful logout will bring the user back to login screen upon reopening.
 
 <img src="https://media.giphy.com/media/j5Pr77W7zklAhsibRS/giphy.gif" width=250><br>
 
